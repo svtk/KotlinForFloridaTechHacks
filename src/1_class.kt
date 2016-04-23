@@ -12,5 +12,5 @@ fun main(args: Array<String>) {
 open class University
 
 //singleton
-object FIT : University()
+object TUDelft : University()
 
