@@ -1,3 +1,3 @@
-# KotlinForFloridaTechHacks
+# KotlinUniversityTalk
 
-Code examples for Florida Tech Hacks talk about Kotlin
+Code examples for university talks about Kotlin
