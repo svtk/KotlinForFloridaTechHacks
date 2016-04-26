@@ -6,7 +6,7 @@ fun main(args: Array<String>) {
     // no new keyword
     val person = KPerson("Alice", 29)
 
-    println(person)
+    println(person.name)
 }
 
 open class University
